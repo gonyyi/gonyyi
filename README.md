@@ -6,4 +6,4 @@
 - I am sensitive with memory allocations.
 - I love to learn new programming languages.
 - I am currently working on a logger called [alog](https://github.com/gonyyi/alog).
-- I believe naming is the most difficult task of programming.
+- I believe naming is the most difficult part of programming.
