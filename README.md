@@ -1,4 +1,7 @@
-### Hi there 👋
+### I am Gon. I am obssessed with a logger. 👋
+
+- 🔭 I'm currently working on few libraries for Golang.
+
 
 <!--
 **gonyyi/gonyyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
