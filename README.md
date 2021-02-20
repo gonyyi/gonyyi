@@ -1,4 +1,3 @@
-![DSYIM](https://deoksuyi.com/sx/g.svg)
 ### 👋 Hi, I am Gon 
 
 - At work, I am a data engineer.
