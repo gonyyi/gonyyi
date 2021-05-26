@@ -1,4 +1,4 @@
-![DSYiM](https://deoksuyi.com/sxx/g.svg)
+![DSYiM](https://gonyyi.com/img/dsyim50.svg)
 
 - I am Gon.
 - At work, I am a data engineer.
